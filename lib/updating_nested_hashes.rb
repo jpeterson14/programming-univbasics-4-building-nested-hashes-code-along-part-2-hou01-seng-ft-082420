@@ -27,9 +27,8 @@ epic_tragedy[:capulet][:heroine][:status] = "dead"
 
 
 
-def update_status
+
   puts epic_tragedy
-end
 end
 
 def add_characters
@@ -71,6 +70,5 @@ def add_characters
 
 
    
-   def epic_tragedy
+   epic_tragedy
 end
-end 
